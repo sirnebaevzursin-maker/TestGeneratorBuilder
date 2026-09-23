@@ -5,13 +5,10 @@ public class TestBuilder {
     private int numberOfQuestions;
     private int timeLimit;
     private String questionType;
-
     public TestBuilder setTitle(String title){
-
         this.title = title;
         return this;
     }
-
     public TestBuilder setSubject(String subject){
 
         this.subject = subject;
