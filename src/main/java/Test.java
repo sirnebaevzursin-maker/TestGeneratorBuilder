@@ -1,12 +1,10 @@
 public class Test {
-
     private String title;
     private String subject;
     private String difficulty;
     private int numberOfQuestions;
     private int timeLimit;
     private String questionType;
-
     public Test(String title,
                 String subject,
                 String difficulty,
