@@ -1,6 +1,4 @@
-public class TestBuilder {
-    private String title;
-    private String subject;
+
     private String difficulty;
     private int numberOfQuestions;
     private int timeLimit;
